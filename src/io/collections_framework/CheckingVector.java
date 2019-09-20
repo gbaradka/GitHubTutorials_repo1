@@ -50,6 +50,7 @@ public class CheckingVector {
 		}
 		
 //convert to HashSet..
+//		why we need this line
 		Set<String> hashset = new HashSet<String>(vector);
 		System.out.println(hashset);
 
